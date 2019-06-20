@@ -90,7 +90,7 @@ func cmdFirstKeyPos(cmd Cmder, info *CommandInfo) int {
 }
 
 //------------------------------------------------------------------------------
-
+//testing go push
 type baseCmd struct {
 	_args []interface{}
 	err   error
